@@ -1,0 +1,22 @@
+ABOUT VLSI COURSE:- 
+VLSI stands for Very-Large-scale integration(VLSI), Which creates an integrated circuit(IC) by cobining millions of MOS
+(metel oxide silicon transistor) over a single chip. VLSI started in 1970. when MOS integrated circuit chips were broadly
+adopted, enabling compound semicoductor and telecommunication technologies to be explained microprocessor and the memorychips
+in the VLSI devices before the intro of VLSI technology most IC's had a limited set of roles they could perform.
+
+. IC(integrated circuits) are used various types of electric devices our mobile phone consists of IC. IC a circuit where
+all or some of circuit elements are inseparably linked and electrically interconnected so it's consider invisible for 
+construction and commerce before VLSI, IC size used to be much larger than it is now because of VLSI, designers can now add 
+million of transistor and other components of a tiny chip.
+
+.. List of VLSI course topics 
+1) introduction to VLSI system
+2) CMOS logic, fabrication and layout
+3) MOS transistor theory
+4) layout design rules
+5) circuit characterization and performance estimation
+6) circuit simulation
+7) combinational and sequential circuit designs
+8) memory system design 
+9) design methodology and tools
+ 
